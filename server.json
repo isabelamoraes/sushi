@@ -1,0 +1,134 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "title": "Todos"
+    },
+    {
+      "id": 1,
+      "title": "Sushis"
+    },
+    {
+      "id": 2,
+      "title": "Sashimis"
+    },
+    {
+      "id": 3,
+      "title": "Temakis"
+    },
+    {
+      "id": 4,
+      "title": "Bebidas"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Sushi",
+      "description": "8 unidades",
+      "price": 9,
+      "id_category": 1,
+      "image": "https://i.ibb.co/Bj6jkz4/sushi.png",
+      "thumbnail": "https://i.ibb.co/7X769Pz/sushi-thumbnail.png"
+    },
+    {
+      "id": 2,
+      "title": "Philadelphia Roll",
+      "description": "8 unidades",
+      "price": 14,
+      "id_category": 1,
+      "image": "https://i.ibb.co/2nsHwr9/philadelphia-roll.png",
+      "thumbnail": "https://i.ibb.co/YBk6h2b/philadelphia-roll-thumbnail.png"
+    },
+    {
+      "id": 3,
+      "title": "Hot Roll",
+      "description": "6 unidades",
+      "price": 12.9,
+      "id_category": 1,
+      "image": "https://i.ibb.co/27gHkQ4/hot-roll.png",
+      "thumbnail": "https://i.ibb.co/H46c2ZH/hot-roll-thumbnail.png"
+    },
+    {
+      "id": 4,
+      "title": "Uramaki",
+      "description": "8 unidades",
+      "price": 12,
+      "id_category": 1,
+      "image": "https://i.ibb.co/0ypMmwK/uramaki.png",
+      "thumbnail": "https://i.ibb.co/CwkkJKR/uramaki-thumbnail.png"
+    },
+    {
+      "id": 5,
+      "title": "Niguiri",
+      "description": "4 unidades",
+      "price": 8,
+      "id_category": 1,
+      "image": "https://i.ibb.co/L0Xq8Bf/niguiri.png",
+      "thumbnail": "https://i.ibb.co/F7h3qBQ/niguiri-thumbnail.png"
+    },
+    {
+      "id": 6,
+      "title": "Sashimi Salmão",
+      "description": "16 unidades",
+      "price": 19,
+      "id_category": 2,
+      "image": "https://i.ibb.co/HdBncrk/sashimi-salmao.png",
+      "thumbnail": "https://i.ibb.co/nC4Y0CG/sashimi-salmao-thumbnail.png"
+    },
+    {
+      "id": 7,
+      "title": "Sashimi Atum",
+      "description": "16 unidades",
+      "price": 19,
+      "id_category": 2,
+      "image": "https://i.ibb.co/km6STT9/sashimi-atum.png",
+      "thumbnail": "https://i.ibb.co/L5PxRjq/sashimi-atum-thumbnail.png"
+    },
+    {
+      "id": 8,
+      "title": "Temaki Califórnia",
+      "description": "1 unidade",
+      "price": 24,
+      "id_category": 3,
+      "image": "https://i.ibb.co/hLKxSXs/temaki-california.png",
+      "thumbnail": "https://i.ibb.co/cFv69Xz/temaki-california-thumbnail.png"
+    },
+    {
+      "id": 9,
+      "title": "Temaki Salmão",
+      "description": "1 unidade",
+      "price": 24,
+      "id_category": 3,
+      "image": "https://i.ibb.co/GCf5CrD/temaki-salmao.png",
+      "thumbnail": "https://i.ibb.co/RHGjJ0p/temaki-salmao-thumbnail.png"
+    },
+    {
+      "id": 10,
+      "title": "Água",
+      "description": "500ml",
+      "price": 1.5,
+      "id_category": 4,
+      "image": "https://i.ibb.co/rx0JWPM/agua.png",
+      "thumbnail": "https://i.ibb.co/XyfjZSy/agua-thumbnail.png"
+    },
+    {
+      "id": 11,
+      "title": "Refrigerante",
+      "description": "250ml",
+      "price": 4.5,
+      "id_category": 4,
+      "image": "https://i.ibb.co/nryHQKp/refrigerante.png",
+      "thumbnail": "https://i.ibb.co/6XmvFC5/refrigerante-thumbnail.png"
+    },
+    {
+      "id": 12,
+      "title": "Cerveja",
+      "description": "600ml",
+      "price": 8.9,
+      "id_category": 4,
+      "image": "https://i.ibb.co/wSStt00/cerveja.png",
+      "thumbnail": "https://i.ibb.co/sRyPcFx/cerveja-thumbnail.png"
+    }
+  ]
+}
